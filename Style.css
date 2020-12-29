@@ -1,0 +1,33 @@
+h1{
+
+    color:rgb(23, 3, 43);
+  }
+ .header *{
+    border:solid;
+    Margin-left : 400px;
+    Margin-right : 700px;
+ }
+ .header {
+    display: flex;
+    justify-content : space-between;
+ }
+ p,h2 {
+    text-align: center;
+}
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content : space-evenly;
+}
+ .item {
+        display: flex;
+        justify-content: space-between;
+        background-color: black;
+        padding: 15px;
+        color: white;
+}
+body{
+    margin: 0px;
+    background-color:#b91414;
+    
+}
